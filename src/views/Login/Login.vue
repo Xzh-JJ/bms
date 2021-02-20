@@ -1,6 +1,7 @@
 <template>
   <div class="login-container">
-
+    <header class="login-header">
+    </header>
   </div>
 </template>
 
